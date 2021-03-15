@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @llli0v0
 - 👀 I’m interested in algorithms
 - 🌱 I’m currently learning front-end knowledge
-- 💞️ I'm looking for a new job
 - 📫 How to reach me: WeChat(llli0v0) Email(llli0vv0@gmail.com)
 - 😁 I will grow stronger in strength and in heart.
 
