@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @llli0v0
 - 👀 I’m interested in algorithms. I like solving algorithmic puzzles.
+- 🥳 I love JavaScript!!!
 - 📫 How to reach me: Email(llli0vv0@gmail.com)
 
 <!---
