@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @llli0v0
 - 👀 I’m interested in algorithms. I like solving algorithmic puzzles.
 - 🥳 I love JavaScript(TypeScript)!!!
-- 📫 How to reach me: WeChat(_0vv0llli) Email(llli0vv0@gmail.com)
+- 📫 How to reach me: WeChat(llli0v0) Email(llli0vv0@gmail.com)
 
 <!---
 llli0v0/llli0v0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
